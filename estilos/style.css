@@ -2,7 +2,7 @@
 
 /*
     Paleta de cores
-    laranja: #e88005
+    laranja: #a26a26d4
     coral: #e86531
 */
 
@@ -14,7 +14,7 @@
 }
 
 body {
-    background-image: linear-gradient(to top, #e86531, #af6d1b);
+    background-image: linear-gradient(to top, #e86531, #a26a26d4);
 }
 
 body, html {
@@ -48,7 +48,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #af6d1b url(../imagens/fall.jpg) no-repeat;
+    background: #a26a26d4 url(../imagens/fall.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
